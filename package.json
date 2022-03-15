@@ -2,7 +2,7 @@
   "name": "tour",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github0203.github.com/bocatvang/",
+  "homepage": " https://bocatvang.herokuapp.com/",
   "deploy:firebase": "npm run build && firebase deploy",	
   "dependencies": {
     "@rehooks/window-scroll-position": "^1.0.1",
